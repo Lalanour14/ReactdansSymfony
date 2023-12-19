@@ -1,1 +1,2 @@
-DATABASE_URL="mysql://root:@127.0.0.1:3306/reactdansSympho?serverVersion=5.7"
+
+DATABASE_URL="mysql://root:@127.0.0.1:3306/reactdansSympho?serverVersion=8.0.32&charset=utf8mb4"
